@@ -9,7 +9,7 @@
 
 - 👀 I’m now studying at Tsinghua University
 - 🌱 I'm from the Department of Electronic Engineering
-- :sparkles: I'm the chairman of [eesast](https://github.com/eesast) in 2024-2025
+- :sparkles: I was the chairman of [eesast](https://github.com/eesast) in 2024-2025
 
 ### University
 ![Tsinghua](https://img.shields.io/badge/Tsinghua-9187FF?style=for-the-badge&logo=fathom&logoColor=white)
